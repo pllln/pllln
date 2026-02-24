@@ -2,7 +2,7 @@
 
  # 👋 *hi, my name is Polina*
 
-I am a 1st-year student of the Department of Applied Informatics in Economics at ZGU
+I am a 1st-year student of the Department of Applied Informatics in Economics at Polar State University
 
 </div>
 
