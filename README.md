@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 hi, my name is Polina<br>I am a 1st-year student of the Department of Applied Informatics in Economics at Polar State University<br>
+#👋 hi, my name is Polina<br>I am a 1st-year student of the Department of Applied Informatics in Economics at Polar State University<br>
 
 
 # 💻 Tech Stack:
